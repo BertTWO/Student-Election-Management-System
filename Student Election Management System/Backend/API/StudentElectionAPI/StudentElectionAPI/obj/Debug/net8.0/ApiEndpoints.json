@@ -1,5 +1,35 @@
 [
   {
+    "ContainingType": "StudentElectionAPI.Controllers.CandidateController",
+    "Method": "GetAllPresident",
+    "RelativePath": "api/Candidate/President",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentElectionAPI.Controllers.CandidateController",
+    "Method": "GetAllSecretary",
+    "RelativePath": "api/Candidate/Secretary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentElectionAPI.Controllers.CandidateController",
+    "Method": "GetAllVPresident",
+    "RelativePath": "api/Candidate/VicePresident",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "StudentElectionAPI.Controllers.StudentsController",
     "Method": "GetAllStudents",
     "RelativePath": "api/Students",
@@ -86,6 +116,37 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentElectionAPI.Controllers.VoteController",
+    "Method": "CastAVote",
+    "RelativePath": "api/Vote/{StudentId}-{CandidateId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StudentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "CandidateId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentElectionAPI.Controllers.VoteController",
+    "Method": "ResetAllVotes",
+    "RelativePath": "api/Vote/ResetVotes",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

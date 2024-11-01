@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RkoZmsa+DRU=",
+  "dgSpecHash": "aHkRjHLACMg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\COIN\\Desktop\\C# projects\\Student ELection\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj",
+  "projectFilePath": "C:\\Users\\COIN\\Desktop\\C# projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\COIN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\COIN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

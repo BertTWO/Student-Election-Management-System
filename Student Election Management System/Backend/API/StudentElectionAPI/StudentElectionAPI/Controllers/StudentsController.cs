@@ -8,8 +8,8 @@ namespace StudentElectionAPI.Controllers
     [ApiController]
     public class StudentsController : ControllerBase
     {
-        private readonly StudentDBContext dBContext;
-        public StudentsController(StudentDBContext dbContext)
+        private readonly ElectionDbContext dBContext;
+        public StudentsController(ElectionDbContext dbContext)
         {
             dBContext = dbContext;
         }
