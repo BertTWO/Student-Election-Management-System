@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COIN\\Desktop\\C# projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj": {}
+    "C:\\Users\\COIN\\Desktop\\Csharp projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COIN\\Desktop\\C# projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj": {
+    "C:\\Users\\COIN\\Desktop\\Csharp projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COIN\\Desktop\\C# projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj",
+        "projectUniqueName": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj",
         "projectName": "StudentElectionAPI",
-        "projectPath": "C:\\Users\\COIN\\Desktop\\C# projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj",
+        "projectPath": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\StudentElectionAPI.csproj",
         "packagesPath": "C:\\Users\\COIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COIN\\Desktop\\C# projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\obj\\",
+        "outputPath": "C:\\Users\\COIN\\Desktop\\Csharp projects\\Student ELection\\Student Election Management System\\Backend\\API\\StudentElectionAPI\\StudentElectionAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\COIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

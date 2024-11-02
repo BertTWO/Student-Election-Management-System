@@ -37,6 +37,7 @@ namespace StudentElectionAPI
 
             app.UseAuthorization();
 
+            app.UseCors(policy => policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
 
             app.MapControllers();
 
