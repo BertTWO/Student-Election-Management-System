@@ -8,9 +8,7 @@ export default function App() {
   return (
     <>
       <Navbar/>
-      <div className='App'>
       <StudentList/>
-      </div>
     </>
   )
 }
